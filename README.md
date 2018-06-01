@@ -98,6 +98,16 @@ Response
 
 ## Importar dados dos usuarios:
 
+É necessário ter um arquivo `import_users.csv` no diretório `/tmp`
+
+```
+Usuario 1,user1@imported.com,teste123
+Usuario 2,user2@imported.com,teste123
+Usuario 3,user3@imported.com,teste123
+Usuario 4,user4@imported.com,teste123
+Usuario 5,user5@imported.com,teste123
+```
+
 Request
 
 ```shell
